@@ -15,4 +15,4 @@ Unofficial speedrun.com Chrome application!
 
 ###### Note
 
-PC ONlY! MOBILE WILL NOT WORK.
+PC ONLY! MOBILE WILL NOT WORK.
