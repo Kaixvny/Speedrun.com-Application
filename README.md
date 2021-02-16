@@ -11,7 +11,7 @@ Unofficial speedrun.com Chrome application!
 
 4. Click the "Add" option on the pop up
 
-5. Click on the app in chrome://apps/ (it should automatically redirect you) or search "speedrun" on your device's search app menu.
+5. Click on the app in chrome://apps/ (it should automatically redirect you) or search "speedrun.com" on your device's search app menu.
 
 ###### Note
 
