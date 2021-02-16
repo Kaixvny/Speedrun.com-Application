@@ -13,6 +13,6 @@ Unofficial speedrun.com Chrome application!
 
 5. Click on the app in chrome://apps/ (it should automatically redirect you) or search "speedrun" on your device's search app menu.
 
-####### Note
+###### Note
 
 PC ONlY! MOBILE WILL NOT WORK.
